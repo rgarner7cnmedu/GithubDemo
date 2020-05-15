@@ -1,3 +1,5 @@
+Another unexpected change!
+
 Hello again all!
 
 Hello all!
@@ -7,3 +9,6 @@ Hello Brendan.
 Sample text for Darian.
 
 I changed the line for everyone to see.
+
+This is another change for Everyone.
+
